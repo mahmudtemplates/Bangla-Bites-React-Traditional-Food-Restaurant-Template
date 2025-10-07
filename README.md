@@ -17,7 +17,7 @@ Bangla Bites is a modern React-based restaurant website template crafted with **
 
 ## 🖼️ Preview
 
-![Bangla Bites Preview](./public/preview.jpg)
+![Bangla Bites Preview](./preview.jpg)
 
 ---
 
