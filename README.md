@@ -23,9 +23,7 @@ Bangla Bites is a modern React-based restaurant website template crafted with **
 
 ## 🌍 Live Demo
 
-🔗 [View on TemplateMonster](https://www.templatemonster.com/website-templates/bangla-bites-react-traditional-food-restaurant-template-486309.html)
-
-*(Live GitHub Pages demo can be added here once deployed)*
+🔗 [View on TemplateMonster](https://demo.templatemonster.com/demo/486309.html?_gl=1*psd59z*_ga*ODA1ODc3NjM3LjE3NTY1MzQzMDg.*_ga_FTPYEGT5LY*czE3NTk4MTU4MTckbzExOCRnMSR0MTc1OTgxOTE1MSRqNTIkbDAkaDA.)
 
 ---
 
@@ -45,3 +43,5 @@ It’s designed to give developers and restaurant owners a quick, beautiful star
 - Swiper.js (for sliders)
 
 ---
+
+🛒 [Get Full Version → Bangla Bites on TemplateMonster](https://www.templatemonster.com/website-templates/bangla-bites-react-traditional-food-restaurant-template-486309.html)
